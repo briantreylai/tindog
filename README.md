@@ -1,2 +1,1 @@
-second ever website
-used html, css, and bootstrap
+second ever website using html, css, and bootstrap
